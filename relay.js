@@ -1,4 +1,4 @@
-const GITHUB_PAGE = "http://g.v7h1d.online:2096";
+const GITHUB_PAGE = "http://g.v7h1d.online:444";
 
 const STRIP_HEADERS = new Set([
   "host",
